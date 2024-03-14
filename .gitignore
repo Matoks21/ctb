@@ -1,0 +1,17 @@
+.idea
+/out
+.iws
+*.iml
+.ipr
+target
+.DS_STORE /src/main/resources/log
+
+# Файли Gradle
+build/
+.gradle/
+# ОС-специфічні файли
+.DS_Store
+Thumbs.db
+
+# Тимчасові файли
+build.gradle~
